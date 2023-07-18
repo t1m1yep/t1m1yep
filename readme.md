@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Timofey
 #### I am Space Station 14 Host
-![I am Space Station 14 Host](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Space Station 14 Host](https://raw.githubusercontent.com/t1m1yep/t1m1yep/main/banner.png)
 
 Script kidding, hosting Honk Station in Space Station 14
 Trying to do something..

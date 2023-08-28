@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Timofey
 #### I am Space Station 14 Host
-![I am Space Station 14 Host](https://raw.githubusercontent.com/t1m1yep/t1m1yep/main/banner.png)
 
-Script kidding, hosting Honk Station in Space Station 14
-Trying to do something..
+Script kidding, hosting Orbit Station in Space Station 14
+Shitcoding 25/8
 
 Skills: C / YAML / Fluent / C# (no)
 
@@ -11,7 +10,7 @@ Skills: C / YAML / Fluent / C# (no)
 - 🌱 I’m currently learning C# 
 - 🤔 I’m looking for help with C# 
 - 💬 Ask me about C 
-- 📫 How to reach me: dsc/t1m1yep 
+- 📫 How to reach me: dsc/st7tic 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: A crocodile cannot stick its tongue out 
 

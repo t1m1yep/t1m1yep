@@ -1,10 +1,9 @@
 ### t1m1yep
 
-Skills: C / YAML / Fluent / C#
+Skills: C / C#
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning C# 
-- 💬 Ask me about C 
+- 🔭 I’m currently working on Arduino Nano
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord: t1m1yep 
 - 😄 Pronouns: he/him 
 

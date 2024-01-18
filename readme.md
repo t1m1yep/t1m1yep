@@ -1,10 +1,10 @@
 ### t1m1yep
 
-Skills: C / C#
+Skills: C / C# / Golang
 
-- 🔭 I’m currently working on Arduino Nano
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: Discord: t1m1yep 
+- 🔭 I’m currently working on cs50
+- 🌱 I’m currently learning python
+- 📫 How to reach me: Discord (timofeyw)
 - 😄 Pronouns: he/him 
 
 

@@ -3,7 +3,7 @@
 Skills: C / C++ / C# / Golang / Lua / Python  
 
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Haskell
 - 📫 How to reach me: Discord (t1m1yep)
 - 😄 Pronouns: he/him 
 
